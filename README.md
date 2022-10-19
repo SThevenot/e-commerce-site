@@ -1,61 +1,64 @@
-# E-Commerce Site 
-  ![](https://img.shields.io/badge/license--green)
+<!-- @format -->
 
-  #### The task was to build a back-end e-commerce site working with Express.js and mySQL. I created routes to alter or view various products, categories, and tags.
-  
-  ## Table of Contents
-  ----
-  - [Installation Instructions](#installation-instructions)
-  - [Usage Info](#usage-info)
-  - [License Info](#license-info)
-  - [Technology Used](#technology-used)
-  - [Contribution Guidelines](#contribution-guidelines)
-  - [Test Instructions](#test-instructions)
-  - [Questions?](#questions)
-  
-  ## Installation Instructions
-  
-  #### Clone the repository.
-  
-  ----
-  
-  ## Usage Info
-  
-  #### Navigate to the proper folder and run 'npm install' and then 'node server.js'.
-  
-  -----
-  
-  ## License Info
+<h1 align="center"> E-Commerce Site </h1>
+  <p align="center">
+  <img src="https://img.shields.io/badge/license-Node.js-green"/>
+  <img src="https://img.shields.io/badge/license-Express.js-yellow"/>
+  <img src="https://img.shields.io/badge/license-mySQL-pink"/>
+  </p>
 
-  #### This project is under the  license. 
+## Description⭐
 
-  -----
-  
-  ## Technology Used
+#### The task was to build a back-end e-commerce site working with Express.js and mySQL. I created routes to alter or view various products, categories, and tags.
 
-  #### This project used Node.js, Express.js, mySQL, and Sequelize.
+## Table of Contents 📖
 
-  -----
+---
 
-  ## Contribution Guidelines
-  
-  #### N/A
-  
-  -----
-  
-  ## Test Instructions
-  
-  #### N/A
-  
-  -----
-  
-  ## Questions?
-  
-  #### Reach out to my Github! 
+- [Description](#description⭐)
+- [Installation Instructions](#installation-instructions)
+- [Usage Info](#usage-info💡)
+- [License Info](#license-info)
+- [Technology Used](#technology-used🔧)
+- [Contribution Guidelines](#contribution-guidelines👩🏻‍💻)
+- [Questions?](#questions❓)
 
-  #### https://github.com/SThevenot
-  
+## Installation Instructions
 
-  #### Send me an email! 
+#### Clone the repository.
 
-  #### sktmh007@gmail.com
+---
+
+## Usage Info💡
+
+#### Navigate to the proper folder and run 'npm install' and then 'node server.js'.
+
+---
+
+## License Info
+
+#### This project is under the license.
+
+---
+
+## Technology Used🔧
+
+#### This project used Node.js,Express.js, mySQL, and sequelize.
+
+---
+
+## Contribution Guidelines👩🏻‍💻
+
+#### Please contact me
+
+---
+
+## Questions?❓
+
+#### Reach out to my Github!
+
+#### https://github.com/SThevenot
+
+#### Send me an email!
+
+#### sktmh007@gmail.com
